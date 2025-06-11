@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+        "@mysten/bcs": "^1.1.0",
+        "@mysten/sui": "^1.14.2",
+        "axios": "^1.7.9",
+        "dotenv": "^16.3.1",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^3.3.2",
+        "path": "^0.12.7",
+        "readline": "^1.3.0",
+        "ts-node": "^10.9.1"
+    },
+    "scripts": {
+        "deploy": "npx ts-node scripts/utils/setup.ts"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.6",
+        "typescript": "^5.3.3"
+    }
+}

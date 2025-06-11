@@ -1,0 +1,12 @@
+export let packageId = '0x4fd4de7cad7a590297491805307b027b7a187a4661ab5d98de15a82e0096ffba';
+export let AdminCap = '0x5ee709d9f8e090243b233cbd6216588286d1be4b71c51c233f1901d9cc01ec7d';
+export let UpgradeCap = '0xd1d87110919f34b4306da8cbb59e2d22846b66c0996b826f70ced150fd3a448c';
+export let Version = '0x1344b24c3e501507e43f9ba59a2c0ef4b6147a25232530ae0f2024d216ac9ddd';
+export let Supply = '0x0ea0379f5d2d9c431822ccca527b29671c5b58cfe7cc47340c01a8fac79ac6cb';
+export let TransferPolicy = '0x3fc93cb083dc18e9ac1b62b1b0c3b28267990ff61c93b4ce6163c7657c64bb75';
+export let TransferPolicyCap = '0xf8f576efd2bf8a2660c4a920373a737a34b79899d1edc217e6ee31f24ff3fffd';
+export let KioskPackageId = '0x31cdbe28e6598132709b90d173f67d538ba864f50eea637a7ebceca5a95fe66d';
+
+export let GoldenApple = '0xe88f82c996ea73749b4d1f48c89204ff23b46df9e519523a67ac87094e217c31';
+export let UserKiosk = '0x2b4c55f349c07bf31a90ad6a9ad37d21ce7c0024ce46ed7dcf75b3ff52391cc4';
+export let UserKioskOwnerCap = '0xed3607ea8bcfcc1c75afb6258f6701077639f96285199abadce637a590b8869a';
