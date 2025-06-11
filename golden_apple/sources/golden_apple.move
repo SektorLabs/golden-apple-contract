@@ -66,7 +66,7 @@ fun init(_witness: GOLDEN_APPLE, ctx: &mut TxContext) {
         total_supply: 0,
     };
     
-    golden_apple_display.add(b"name".to_string(), b"The Golden Apple".to_string());
+    golden_apple_display.add(b"name".to_string(), b"Sektor13: The Golden Apple".to_string());
     golden_apple_display.add(
         b"description".to_string(),
         b"The age of the apple falling from the sky is behind us. Now, we rise into the skies in search of it.\nThe era of Eris casting it down is over— for now, the apple needs only to exist.\nTo the bearers of this fruit: May you guard it with your sanity, not your heart.\nThis is where the myths are made real.".to_string(),

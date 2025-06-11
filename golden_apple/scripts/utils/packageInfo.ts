@@ -1,12 +1,12 @@
-export let packageId = '0x4fd4de7cad7a590297491805307b027b7a187a4661ab5d98de15a82e0096ffba';
-export let AdminCap = '0x5ee709d9f8e090243b233cbd6216588286d1be4b71c51c233f1901d9cc01ec7d';
-export let UpgradeCap = '0xd1d87110919f34b4306da8cbb59e2d22846b66c0996b826f70ced150fd3a448c';
-export let Version = '0x1344b24c3e501507e43f9ba59a2c0ef4b6147a25232530ae0f2024d216ac9ddd';
-export let Supply = '0x0ea0379f5d2d9c431822ccca527b29671c5b58cfe7cc47340c01a8fac79ac6cb';
-export let TransferPolicy = '0x3fc93cb083dc18e9ac1b62b1b0c3b28267990ff61c93b4ce6163c7657c64bb75';
-export let TransferPolicyCap = '0xf8f576efd2bf8a2660c4a920373a737a34b79899d1edc217e6ee31f24ff3fffd';
+export let packageId = '0x26c0ae7f3449c92519fcfc44f402daea9cd5afeab87e4cc39dd75c0e43d7c21b';
+export let AdminCap = '0xd06272e82bc485168f6fcabe8f4e40dfc4a5eec5b9d1071f9a52602d0b5f009a';
+export let UpgradeCap = '0x13364e6e888852f4d20d445194e23da664f32a4bd499508dbaa85288b3e521db';
+export let Version = '0x5faf26b73c6d9966826a5178e2e5acb850ca972b050fb797810497d3ee67f6b6';
+export let Supply = '0x51e16e75b99c0bb89cad4566b476e43fd1d062faa198852014385416020e77c9';
+export let TransferPolicy = '0x1126667c5e174eedefecac861419a20200f473eb901ec9b033d05b1640d6b937';
+export let TransferPolicyCap = '0x5ece7a8d020bf28886d35c581f4b53bf310fbadc9255188b887a68361ad958b3';
 export let KioskPackageId = '0x31cdbe28e6598132709b90d173f67d538ba864f50eea637a7ebceca5a95fe66d';
 
-export let GoldenApple = '0xe88f82c996ea73749b4d1f48c89204ff23b46df9e519523a67ac87094e217c31';
-export let UserKiosk = '0x2b4c55f349c07bf31a90ad6a9ad37d21ce7c0024ce46ed7dcf75b3ff52391cc4';
-export let UserKioskOwnerCap = '0xed3607ea8bcfcc1c75afb6258f6701077639f96285199abadce637a590b8869a';
+export let GoldenApple = '0x794750b32f1254422cd0eb2506085f58ead2654a345a45de10227d13ef88f1b2';
+export let UserKiosk = '0x44535be931d7068254654e8a60cef4e3591339240871a099abb34ed42816a39c';
+export let UserKioskOwnerCap = '0xd7ea28268ba25a40e7d6785d2dc64cc7662ef965c610f728d719a959a83cc1d5';
